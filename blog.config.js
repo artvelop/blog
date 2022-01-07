@@ -3,7 +3,7 @@ const BLOG = {
   author: 'artvelop',
   email: 'richcode99@gmail.com',
   link: 'https://artvelop.vercel.app/',
-  description: 'artvelop develop blog',
+  description: 'welcome to artvelop blog',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
