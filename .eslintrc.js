@@ -21,6 +21,7 @@ module.exports = {
   rules: {
     'react/prop-types': 'off',
     'comma-dangle': 'off',
+    semi: 'off',
   },
   globals: {
     React: true,
