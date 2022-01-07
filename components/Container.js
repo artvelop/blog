@@ -63,7 +63,7 @@ const Container = ({ children, layout, fullWidth, ...customMeta }) => {
         )}
       </Head>
       <div
-        className={`wrapper ${
+        className={`wrapper dark-mode ${
           BLOG.font === 'serif' ? 'font-serif' : 'font-sans'
         }`}>
         <Header
