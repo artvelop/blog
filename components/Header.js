@@ -67,8 +67,11 @@ const Header = ({ navBarTitle, fullWidth }) => {
         <div className="flex items-center">
           <Link href="/">
             <a aria-label={BLOG.title}>
-              <div style={{ color: 'rgb(255, 116, 0)', fontWeight: 500 }}>
-                ARTVELOP
+              <div style={{ display: 'flex' }}>
+                <div style={{ color: 'rgb(255, 116, 0)', fontWeight: 500 }}>
+                  ART
+                </div>
+                <div style={{ color: '#fff', fontWeight: 500 }}>VELOP</div>
               </div>
             </a>
           </Link>
