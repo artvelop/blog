@@ -71,7 +71,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
                 <div style={{ color: 'rgb(255, 116, 0)', fontWeight: 500 }}>
                   ART
                 </div>
-                <div style={{ color: '#fff', fontWeight: 500 }}>VELOP</div>
+                <div style={{ color: '#18181B', fontWeight: 500 }}>VELOP</div>
               </div>
             </a>
           </Link>

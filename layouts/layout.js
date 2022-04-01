@@ -49,7 +49,7 @@ const Layout = ({
                   viewBox="0 0 16 16"
                   version="1.1"
                   width="20"
-                  fill="#fff"
+                  fill="#3f3f3f"
                   data-view-component="true"
                   class="octicon octicon-mark-github v-align-middle">
                   <path
